@@ -22,4 +22,7 @@ This README serves as the home page for this wiki. Please manually add a link to
 [Brillo provisioned Edisons](brillo-firmware)  
 [Running Edison firmware on Dell Venue 7 3740 HSPA+](edison-venue)  
 [Fixing up a fried Intel Edison-Arduino board](edison-fixup)  
-[MCU API documentation](assets/api_doc/html/index.html)
+[MCU API documentation](assets/api_doc/html/index.html)  
+[Creating applications with the MCU SDK for
+the Intel® Edison board](assets/MCU SDK for the Intel Edison board.pdf)  
+    *salvaged from the Intel web site 2015, source for this document provided alongside the pdf in git*
